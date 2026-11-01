@@ -1,4 +1,4 @@
-# Units200
+# AMPcap
 
 Android app that forecasts your electricity units for the current bill cycle and warns you before you cross 200.
 ISE project, Deliverable 3. See `BUILD_SPEC.md` for the decisions behind the rules.
@@ -9,7 +9,7 @@ ISE project, Deliverable 3. See `BUILD_SPEC.md` for the decisions behind the rul
 3. In a terminal:
    ```
    git clone <REPO_URL>
-   cd units200
+   cd AMPcap
    npm install
    npx expo start
    ```

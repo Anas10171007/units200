@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Units200",
-    "slug": "units200",
+    "name": "AMPcap",
+    "slug": "ampcap",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,7 +17,7 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "pk.edu.ise.units200"
+      "package": "pk.edu.ise.ampcap"
     },
     "web": {
       "favicon": "./assets/favicon.png"

@@ -177,7 +177,7 @@ export default function App() {
   const back = () => setView('home');
   return (
     <ScrollView style={{ backgroundColor: C.paper }} contentContainerStyle={s.page}>
-      <Text style={s.brand}>Units200</Text>
+      <Text style={s.brand}>AMPcap</Text>
       {!ready ? <Text style={s.body}>Loading…</Text>
         : view === 'reading' && d.cycle ? <ReadingForm d={d} set={set} back={back} />
         : view === 'cycle' ? <CycleForm d={d} set={set} back={back} />

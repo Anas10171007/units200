@@ -1,4 +1,4 @@
-# Units200 — Build Spec v1 (replaces the 24 open questions for the first build)
+# AMPcap — Build Spec v1 (replaces the 24 open questions for the first build)
 
 Source: Final_Validated_PRD.md, Appendix C proposals, with the changes below. **Team must approve before the demo.**
 
